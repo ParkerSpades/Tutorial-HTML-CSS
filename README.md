@@ -35,3 +35,5 @@ Channel Profile Pictures:
 - https://pin.it/35v08iCyG
 - https://pin.it/52RaTv5Wo
 - https://pin.it/4iqdljpSm
+
+All images, icons, and visual assets used in this project are sourced from copyright-free or appropriately licensed resources. Credit and attribution have been provided to their respective authors, creators, or source platforms where required.
