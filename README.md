@@ -15,7 +15,9 @@ Topics covered:
 12. Media Queries
 
 • Youtube Tutorial Link: https://youtu.be/G3e-cpL7ofc?si=kkjOHtF0yQuO8oZx
+
 • Icons Taken From: https://supersimple.dev/exercises/youtube/
+
 • All Images Taken From Pinterest:
 
 Youtube Thumbnails:
